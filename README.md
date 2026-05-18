@@ -1,5 +1,15 @@
-# Vue 3 + Vite
+# BBVA Peru - Branch Management
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## How to Run
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+### 1. Start the API Server
+Open a terminal and run:
+cd server
+npx json-server --watch db.json --port 3400
+
+### 2. Start the App
+Open another terminal and run:
+npm install
+npm run dev
+
+The app will be available at http://localhost:5173
