@@ -1,0 +1,37 @@
+{
+  "option": {
+    "home": "Home",
+    "attentions": "Attentions"
+  },
+  "home": {
+    "title": "Home",
+    "content": "Welcome to BBVA Peru",
+    "registered-branches": "Registered Branches"
+  },
+  "branch-summary": {
+    "address": "Address",
+    "description": "Description",
+    "capacity": "Capacity",
+    "opened-at": "Opened At",
+    "registered-attentions": "Registered Attentions",
+    "attention-percentage": "Attention %"
+  },
+  "attentions": {
+    "title": "Branch Attention Registry",
+    "ticket-identifier": "Ticket Identifier",
+    "register-in": "Register-In",
+    "branch-id": "Branch Id",
+    "branch-name": "Branch Name",
+    "branch-description": "Branch Description",
+    "first-name": "First Name",
+    "last-name": "Last Name",
+    "registered-in-at": "Register-In At",
+    "invalid-ticket": "Invalid Ticket Identifier",
+    "already-registered": "Already Register-In"
+  },
+  "page-not-found": {
+    "title": "Page Not Found",
+    "content": "The path {unavailable-route} is not available.",
+    "go-home": "Go Home"
+  }
+}

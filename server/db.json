@@ -1,0 +1,15 @@
+{
+  "branches": [
+    { "id": 1, "name": "Agencia Miraflores", "description": "Main branch in Miraflores", "address": "Av. Larco 345, Miraflores", "capacity": 10, "openedAt": "2020-03-15" },
+    { "id": 2, "name": "Agencia San Isidro", "description": "Financial district branch", "address": "Calle Las Begonias 123, San Isidro", "capacity": 8, "openedAt": "2019-06-01" },
+    { "id": 3, "name": "Agencia Surco", "description": "Branch in Santiago de Surco", "address": "Av. Primavera 456, Surco", "capacity": 6, "openedAt": "2021-11-20" }
+  ],
+  "attentions": [
+    { "id": 1, "firstName": "Carlos", "lastName": "Mendoza", "branchId": 1, "ticketIdentifier": "TK-001", "registerInAt": null },
+    { "id": 2, "firstName": "Ana", "lastName": "Torres", "branchId": 1, "ticketIdentifier": "TK-002", "registerInAt": "2026-05-18T10:30:00" },
+    { "id": 3, "firstName": "Luis", "lastName": "García", "branchId": 1, "ticketIdentifier": "TK-003", "registerInAt": null },
+    { "id": 4, "firstName": "María", "lastName": "López", "branchId": 2, "ticketIdentifier": "TK-004", "registerInAt": "2026-05-18T09:15:00" },
+    { "id": 5, "firstName": "Pedro", "lastName": "Rojas", "branchId": 2, "ticketIdentifier": "TK-005", "registerInAt": null },
+    { "id": 6, "firstName": "Rosa", "lastName": "Vargas", "branchId": 3, "ticketIdentifier": "TK-006", "registerInAt": null }
+  ]
+}

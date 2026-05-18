@@ -1,0 +1,37 @@
+{
+  "option": {
+    "home": "Inicio",
+    "attentions": "Atenciones"
+  },
+  "home": {
+    "title": "Inicio",
+    "content": "Bienvenido a BBVA Peru",
+    "registered-branches": "Agencias Registradas"
+  },
+  "branch-summary": {
+    "address": "Dirección",
+    "description": "Descripción",
+    "capacity": "Capacidad",
+    "opened-at": "Fecha de Apertura",
+    "registered-attentions": "Atenciones Registradas",
+    "attention-percentage": "% Atención"
+  },
+  "attentions": {
+    "title": "Registro de Atención en Agencia",
+    "ticket-identifier": "Identificador de Ticket",
+    "register-in": "Registrar",
+    "branch-id": "Id de Agencia",
+    "branch-name": "Nombre de Agencia",
+    "branch-description": "Descripción de Agencia",
+    "first-name": "Nombre",
+    "last-name": "Apellido",
+    "registered-in-at": "Registrado en",
+    "invalid-ticket": "Identificador de Ticket Inválido",
+    "already-registered": "Ya Registrado"
+  },
+  "page-not-found": {
+    "title": "Página no encontrada",
+    "content": "La ruta {unavailable-route} no está disponible.",
+    "go-home": "Ir al Inicio"
+  }
+}
